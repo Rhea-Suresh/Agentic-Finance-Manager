@@ -1,0 +1,9 @@
+{
+  "monthly_budget": 5000,
+  "category_limits": {
+    "Food": 1500,
+    "Transport": 500,
+    "Entertainment": 800,
+    "Utilities": 1200
+  }
+}

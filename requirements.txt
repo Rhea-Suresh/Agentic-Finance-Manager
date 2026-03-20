@@ -1,0 +1,6 @@
+openai
+crewai
+langchain-community
+duckduckgo-search
+pandas
+python-dotenv
