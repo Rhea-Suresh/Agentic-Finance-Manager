@@ -6,7 +6,7 @@ load_dotenv()
 def main():
     agent = FinanceAgent()
     
-    print("💰 Personal Finance Agent")
+    print("Personal Finance Agent")
     print("=" * 40)
     
     # Example multi-step goals to demonstrate agentic behavior
@@ -16,9 +16,9 @@ def main():
     ]
     
     for goal in goals:
-        print(f"\n🎯 Goal: {goal}")
+        print(f"\nGoal: {goal}")
         result = agent.run(goal)
-        print(f"\n✅ Result: {result}")
+        print(f"\nResult: {result}")
 
 if __name__ == "__main__":
     main()
